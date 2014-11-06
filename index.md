@@ -21,5 +21,3 @@ title: "Musician, composer, artist."
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
-
-<a href="https://plus.google.com/100145965449481004623" rel="publisher">Google+</a>
