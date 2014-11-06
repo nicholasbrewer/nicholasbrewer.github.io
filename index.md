@@ -4,7 +4,7 @@ permalink: //
 title: "Musician, composer, artist."
 ---
 
-###### [MUSIC]({{ site.url }}/music/mystuff/)
+###### [MUSIC]({{ site.url }}/music/)
 
 <div class="tiles">
 {% for post in site.categories.music limit:4 %}
