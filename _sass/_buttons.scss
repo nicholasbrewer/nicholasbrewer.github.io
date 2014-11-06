@@ -80,7 +80,7 @@
 	}
 }
 .btn-social {
-	$social: 
+	$social:
     (facebook, $facebook-color),
 		(flickr, $flickr-color),
 		(foursquare, $foursquare-color),
@@ -92,7 +92,9 @@
 		(tumblr, $tumblr-color),
 		(twitter, $twitter-color),
 		(vimeo, $vimeo-color),
-		(youtube, $youtube-color);
+		(youtube, $youtube-color),
+		(soundcloud, $soundcloud-color),
+		(envelope, $envelope-color);
 	@extend .btn-inverse;
 	color: $text-color !important;
 	&:visited,
@@ -103,7 +105,7 @@
 	@each $socialnetwork, $color in $social {
 		i.fa-#{$socialnetwork} {
 	    color: $color;
-    }    
+    }
 	}
 	&:hover {
 		color: $white !important;
@@ -115,8 +117,8 @@
 		    @each $socialnetwork, $color in $social {
 					i.fa-#{$socialnetwork} {
 				    color: $white;
-			    }    
+			    }
 				}
-	    }    
+	    }
 	}
 }

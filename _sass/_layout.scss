@@ -21,7 +21,7 @@
 	padding: (.25 * $masthead-height) 0; // fourth the height to center vertically
 	height: $masthead-height;
 	text-decoration: none;
-	color: $black;
+	color: #222222;
 	font-family: $alt-font;
 	font-weight: 700;
 	@include font-size(20,no);
@@ -65,7 +65,7 @@
 			}
 			&:after {
 				width: 0;
-				background: $black;
+				background: #222222;
 			}
 			&:active:after,
 			&:hover:after {
@@ -97,7 +97,7 @@
 			font-weight: 700;
 			@include font-size(16,no);
 			line-height: .5 * $masthead-height; // half the height to center vertically
-			color: $black;
+			color: #222222;
 			text-transform: uppercase;
 		}
 	}
@@ -193,7 +193,7 @@
 				p{
 					@include font-size(14,no);
 					font-family: $alt-font;
-					color: lighten($black,60);
+					color: lighten(#222222,60);
 				}
 			}
 		}
@@ -282,7 +282,7 @@
 	}
 }
 // make image flush with edges on small screens
-.page-image {	
+.page-image {
 	position: relative;
 	margin-left: -1 * $gutter;
 	margin-right: -1 * $gutter;
@@ -306,7 +306,7 @@
 	}
 }
 // breadcrumbs
-.breadcrumbs { 
+.breadcrumbs {
 	@include row;
 	margin-top: $gutter;
 	@include font-size(10,no);

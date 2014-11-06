@@ -1,7 +1,7 @@
 ---
-layout: article
-title: ""
-date: 
+layout: archive
+title: "Music"
+date:
 modified:
 excerpt:
 image:
@@ -9,5 +9,11 @@ image:
   teaser:
   thumb:
 ads: false
+share: false
 ---
 
+<div class="tiles">
+{% for post in site.categories.music %}
+  {% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->
