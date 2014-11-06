@@ -1,7 +1,7 @@
 ---
 layout: article
-title: ""
-date: 
+title: "Artwork"
+date:
 modified:
 excerpt:
 image:
@@ -11,3 +11,6 @@ image:
 ads: false
 ---
 
+# Under Construction
+
+Check back soon!
