@@ -17,6 +17,9 @@ $border-radius               	: 3px;
 
 // Color variables
 
+$header-background-color      : #eeeeee;
+$footer-background-color      : #EEEEEE;
+
 $body-color                  	: #ebebeb;
 $text-color                  	: #313130;
 $base-color                  	: #343434;
@@ -54,6 +57,12 @@ $youtube-color					: #ff3333;
 $soundcloud-color          : #ff5500;
 $envelope-color          : #4bdb98;
 
+// Random Color Variables
+
+$rand: random(8);
+$random-color-list: #ff00ff, #00ff00, #ffff00, #ff0000, #0000ff, #7920FF, #FD0987, #FF3300;
+//$random-color: nth($random-color-list, $rand);
+$random-color: #507CB3;
 
 // Form variables
 

@@ -15,7 +15,9 @@ toc: true
 
 ## About Me
 
-![Alt text](/images/profile.jpg)
+<figure>
+  <img src="/images/profile.jpg">
+</figure>
 
 Nicholas Brewer, a native of Tucson, Arizona where he began piano lessons at the age of five. For the past four years he has studied with Sar Strong at Hamilton College. Brewer has performed many times in University of Arizona's Centennial Hall and Hamilton College's Wellin Hall. He was also invited to perform at Utica College in the spring of 2014.
 

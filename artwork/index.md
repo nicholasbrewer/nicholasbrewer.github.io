@@ -11,6 +11,6 @@ image:
 ads: false
 ---
 
-# Under Construction
+### Under Construction
 
-Check back soon!
+Check back soon! In the process of taking hi-res photos of my pieces.
