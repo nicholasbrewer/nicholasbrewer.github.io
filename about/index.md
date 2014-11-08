@@ -31,8 +31,19 @@ In addition to performing his classical repertoie, Brewer records his own compos
 <a href="https://plus.google.com/100145965449481004623" class="btn-social google-plus"><i class="fa fa-google-plus" aria-hidden="true"></i> Google+</a>
 <a href="https://www.youtube.com/channel/UCQLsWuqFpviF99ylnXzz-Zw" class="btn-social youtube"><i class="fa fa-youtube" aria-hidden="true"></i> Subscribe</a></p>
 
-<form accept-charset="UTF-8" action="https://formkeep.com/f/58bef5dc9d07" method="POST">
-  <input type="hidden" name="utf8" value="✓">
-  <input type="email" name="email" placeholder="Your Email">
-  <input type="text" name="name" placeholder="Your Name">
+Join my mailing list!
+
+<form method="POST" action="http://forms.brace.io/nbrewermusic@gmail.com">
+
+  <div class="form-group">
+    <label for="exampleInputEmail1">Email address</label>
+    <input name="_replyto" type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+  </div>
+
+
+  <input type="hidden" name="_next" value="/http://nicholasbrewer.net/secret/thank-you" />
+  <input type="hidden" name="_subject" value="Mailing List Subscriber!" />
+
+  <button type="submit" class="btn btn-primary">Submit</button>
+
 </form>
