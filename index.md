@@ -4,4 +4,4 @@ permalink: //
 title: ""
 ---
 
-<img src="/images/homepage.png" />
+<a href="/music/"><img src="/images/homepage.png" /></a>
