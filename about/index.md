@@ -41,7 +41,7 @@ Join my mailing list!
   </div>
 
 
-  <input type="hidden" name="_next" value="/http://nicholasbrewer.net/secret/thank-you" />
+  <input type="hidden" name="_next" value="http://nicholasbrewer.net/secret/thank-you" />
   <input type="hidden" name="_subject" value="Mailing List Subscriber!" />
 
   <button type="submit" class="btn btn-primary">Submit</button>
