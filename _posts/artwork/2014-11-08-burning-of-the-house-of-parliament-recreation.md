@@ -7,7 +7,7 @@ excerpt:
 tags: []
 image:
   feature:
-  teaser: /artwork/turner small thumbnail.jpg
+  teaser: artwork/turner small thumbnail.jpg
   thumb:
 date: 2014-11-08T18:51:09-05:00
 ---
