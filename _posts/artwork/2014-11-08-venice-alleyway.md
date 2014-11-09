@@ -7,13 +7,13 @@ excerpt:
 tags: []
 image:
   feature:
-  teaser: artwork/venice alleyway small thumbnail.jpg
+  teaser: artwork/venice-alleyway-small-thumbnail.jpg
   thumb:
 date: 2014-11-08T19:11:24-05:00
 ---
 
 <figure>
-  <a href="/images/artwork/venice alleyway.jpg"><img src="/images/artwork/venice alleyway thumbnail.jpg" /></a>
+  <a href="/images/artwork/venice-alleyway.jpg"><img src="/images/artwork/venice-alleyway-thumbnail.jpg" /></a>
   <figcaption> Intaglio Print, 8" x 10" </figcaption>
 </figure>
 
