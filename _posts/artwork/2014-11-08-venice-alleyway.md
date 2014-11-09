@@ -13,7 +13,7 @@ date: 2014-11-08T19:11:24-05:00
 ---
 
 <figure>
-  <a href="/images/venice-alleyway.jpg"><img src="/images/venice-alleyway-thumbnail.jpg" /></a>
+  <a href="/images/Venice-Alleyway.jpg"><img src="/images/Venice-Alleyway-Thumbnail.jpg" /></a>
   <figcaption> Intaglio Print, 8" x 10" </figcaption>
 </figure>
 
