@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: archive
 title: "Artwork"
 date:
 modified:
@@ -9,8 +9,11 @@ image:
   teaser:
   thumb:
 ads: false
+share: false
 ---
 
-### Under Construction
-
-Check back soon! In the process of taking hi-res photos of my pieces.
+<div class="tiles">
+{% for post in site.categories.artwork %}
+  {% include post-grid-no-date.html %}
+{% endfor %}
+</div><!-- /.tiles -->

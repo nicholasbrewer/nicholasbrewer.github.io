@@ -14,6 +14,6 @@ share: false
 
 <div class="tiles">
 {% for post in site.categories.music %}
-  {% include post-grid.html %}
+  {% include post-list-no-date.html %}
 {% endfor %}
 </div><!-- /.tiles -->
