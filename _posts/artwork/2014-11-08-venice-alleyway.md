@@ -7,7 +7,7 @@ excerpt:
 tags: []
 image:
   feature:
-  teaser: venice-alleyway-small-thumbnail.jpg
+  teaser: Venice-Alleyway-Small-Thumbnail.jpg
   thumb:
 date: 2014-11-08T19:11:24-05:00
 ---
