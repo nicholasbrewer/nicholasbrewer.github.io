@@ -7,13 +7,13 @@ excerpt:
 tags: []
 image:
   feature:
-  teaser: artwork/turner-small-thumbnail.jpg
+  teaser: turner-small-thumbnail.jpg
   thumb:
 date: 2014-11-08T18:51:09-05:00
 ---
 
 <figure>
-  <a href="/images/artwork/turner.jpg"><img src="/images/artwork/turner-thumbnail.jpg" /></a>
+  <a href="/images/turner.jpg"><img src="/images/turner-thumbnail.jpg" /></a>
   <figcaption> Oil on Canvas, 48" x 38" </figcaption>
 </figure>
 
