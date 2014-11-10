@@ -9,7 +9,7 @@ image:
   feature:
   teaser: Hamilton-Sunset-Small-Thumbnail.jpg
   thumb:
-date: 2014-11-09T20:19:56-05:00
+date: 2014-11-06T20:19:56-05:00
 ---
 
 <figure>

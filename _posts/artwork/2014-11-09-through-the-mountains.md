@@ -9,7 +9,7 @@ image:
   feature:
   teaser: Through-the-Mountains-Small-Thumbnail.JPG
   thumb:
-date: 2014-11-09T20:20:18-05:00
+date: 2014-11-05T20:20:18-05:00
 ---
 
 <figure>

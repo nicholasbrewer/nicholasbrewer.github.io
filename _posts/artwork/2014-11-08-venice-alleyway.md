@@ -9,7 +9,7 @@ image:
   feature:
   teaser: Venice-Alleyway-Small-Thumbnail.jpg
   thumb:
-date: 2014-11-08T19:11:24-05:00
+date: 2014-11-09T16:11:24-05:00
 ---
 
 <figure>
