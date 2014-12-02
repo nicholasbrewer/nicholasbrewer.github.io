@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Old College Audition Recordings"
+title: "College Audition Recordings"
 modified:
 categories: music
 excerpt:
