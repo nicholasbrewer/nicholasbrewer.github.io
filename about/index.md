@@ -35,7 +35,7 @@ In addition to performing his classical repertoie, Brewer records his own compos
 
 Enter your email to subscribe to my mailing list!
 
-<form method="POST" action="http://forms.brace.io/nbrewermusic@gmail.com">
+<form method="POST" action="http://formspree.io/nbrewermusic@gmail.com">
 
   <div class="form-group">
     <label for="exampleInputEmail1">Email address</label>
