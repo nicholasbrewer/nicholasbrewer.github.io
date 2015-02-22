@@ -1,6 +1,6 @@
 ---
 layout: media
-title: "Does That Seem Right to You?"
+title: "Lion's Dance"
 modified:
 categories: music
 excerpt:
