@@ -17,4 +17,4 @@ date: 2014-11-05T20:20:18-05:00
   <figcaption> Oil on Canvas </figcaption>
 </figure>
 
-Through the Mountains is inspired by textured glass. I found myself examining the pathways of light through a piece of glass and consequently, this painting.
+*Through the Mountains* is inspired by textured glass. I found myself examining the pathways of light through a piece of glass and consequently, this painting.

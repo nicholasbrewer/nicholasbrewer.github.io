@@ -17,4 +17,4 @@ date: 2014-11-06T20:19:56-05:00
   <figcaption> Oil on Canvas </figcaption>
 </figure>
 
-A contemplation on leaving home, Hamilton Sunset depicts fall at my alma mater.
+A contemplation on leaving home, *Hamilton Sunset* depicts fall at my alma mater.

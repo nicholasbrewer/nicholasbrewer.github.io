@@ -17,4 +17,4 @@ date: 2014-11-09T16:11:24-05:00
   <figcaption> Intaglio Print, 8" x 10" </figcaption>
 </figure>
 
-Venice Alleyway is part of an ongoing series of works. I am fascinated by the imagery of a dim lamppost in the distance, a beacon to a wandering soul. Here I explore the feeling of being lost, but nearly found. The city of Venice at night can be frustratingly difficult to navigate.
+*Venice Alleyway* is part of an ongoing series of works. I am fascinated by the imagery of a dim lamppost in the distance, a beacon to a wandering soul. Here I explore the feeling of being lost, but nearly found. The city of Venice at night can be frustratingly difficult to navigate.

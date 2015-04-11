@@ -17,6 +17,6 @@ date: 2014-11-08T18:51:09-05:00
   <figcaption> Oil on Canvas, 48" x 38" </figcaption>
 </figure>
 
-A recreation of J.M.W. Turner's Burning of the House of Parliament.
+A recreation of J.M.W. Turner's *Burning of the House of Parliament.*
 
 *Turner was a British painter during the romantic period. Known for his landscapes and eccentricity, Turner became fascinated with the industrial revolution and its effects on the environment later in his career. Over time his works became less detailed and more focused on color and light. His evolving style was a great influence on the impressionist period.*
