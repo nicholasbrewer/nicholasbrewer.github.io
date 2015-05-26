@@ -21,7 +21,7 @@ A native of Tucson, Arizona, I began piano lessons at the age of five. During my
 
 I love music. It facilitates a truly special connection between people. The recording of a musician from 50 years ago can make it's way to your heart today and elicit an emotion inside you. One can touch countless lives through music. Stories of places strange and foreign, grand and awe-inspiring, and close to home come to us every day through music.
 
-Music is on my mind most of the time; I'm often playing, or writing, or listening to, or thinking about it.
+Music is on my mind most of the time; I'm often playing, writing, listening to, or thinking about it.
 
 My current adventure is in writing and recording all the music for a dance piece to be performed late in Spring in Portland, Maine. Info on the home page.
 
