@@ -1,8 +1,6 @@
 ---
-layout: home
+layout: archive
 permalink: //
-image:
-  feature: BW4.jpg
 ---
 
 <a href="http://nicholasbrewer.bandcamp.com"><img src="/images/Carne-For-Sale-Banner.jpg" /></a>

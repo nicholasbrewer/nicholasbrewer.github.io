@@ -1,11 +1,11 @@
 ---
-layout: media
+layout: home
 title: ""
 date:
 modified:
 excerpt:
 image:
-  feature: profile-banner.jpg
+  feature: BW4.jpg
   teaser:
   thumb:
 ads: false
