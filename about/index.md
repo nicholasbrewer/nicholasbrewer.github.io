@@ -17,7 +17,7 @@ toc: true
 
 I'm Nicholas Brewer: pianist, composer, visual artist, hiker of mountains, etc.
 
-A native of Tucson, Arizona, I began piano lessons at the age of five. During my undergraduate years at Hamilton College I studied with the wonderful Sar Shalom-Strong. My performance experience ranges from solo concerts to 15-piano ensembles. I'm currently pursuing a Master's in Piano Performance at the Longy School of Music of Bard College.
+A native of Tucson, Arizona, I began piano lessons at the age of five. During my undergraduate years at Hamilton College I studied with the wonderful Sar-Shalom Strong. I graduated in 2014 with a Bachelor of Arts in Computer Science. My performance experience ranges from solo concerts to 15-piano ensembles. I'm currently pursuing a Master's in Piano Performance at the Longy School of Music of Bard College under Benjamin Hochman.
 
 Music is on my mind most of the time; I'm often playing, writing, listening to, or thinking about it.
 
