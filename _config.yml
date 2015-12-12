@@ -5,9 +5,9 @@ description: "Human, musician, artist, composer."
 logo: site-logo.jpg # 120x120 px default image used for Twitter summary card
 teaser: teaser.jpg # 400x250 px default teaser image used in image archive grid
 locale:
-#url: http://localhost:4000
+url: http://localhost:4000
 #url: http://nicholasbrewer.github.io
-url: http://nicholasbrewer.net
+#url: http://nicholasbrewer.net
 
 # Jekyll configuration
 

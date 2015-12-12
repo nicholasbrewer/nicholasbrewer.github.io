@@ -1,11 +1,11 @@
 ---
-layout: home
+layout: media
 title: ""
 date:
 modified:
 excerpt:
 image:
-  feature: BW4.jpg
+  feature: Performing.jpg
   teaser:
   thumb:
 ads: false
