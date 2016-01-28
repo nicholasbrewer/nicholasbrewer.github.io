@@ -5,7 +5,7 @@ date:
 modified:
 excerpt:
 image:
-  feature: Performing.jpg
+  feature: Kozhukhin-Masterclass.jpg
   teaser:
   thumb:
 ads: false
