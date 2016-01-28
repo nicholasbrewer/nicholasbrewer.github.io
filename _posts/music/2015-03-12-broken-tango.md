@@ -2,7 +2,7 @@
 layout: media
 title: "Broken Tango"
 modified:
-categories: music
+categories: composition
 excerpt:
 tags: []
 image:

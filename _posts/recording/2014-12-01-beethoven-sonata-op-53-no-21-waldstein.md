@@ -2,7 +2,7 @@
 layout: media
 title: "Beethoven Sonata Op. 53 No. 21 - Waldstein"
 modified:
-categories: music
+categories: recording
 excerpt:
 tags: []
 image:

@@ -2,7 +2,7 @@
 layout: media
 title: "Kapustin Etude Op. 40 No. 6 - Pastorale"
 modified:
-categories: music
+categories: recording
 excerpt:
 tags: []
 image:

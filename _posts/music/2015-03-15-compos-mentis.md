@@ -2,7 +2,7 @@
 layout: media
 title: "Compos Mentis"
 modified:
-categories: music
+categories: composition
 excerpt:
 tags: []
 image:

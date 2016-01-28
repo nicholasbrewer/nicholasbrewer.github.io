@@ -2,7 +2,7 @@
 layout: media
 title: "Bach Prelude and Fugue in G Major BWV 860"
 modified:
-categories: music
+categories: recording
 excerpt:
 tags: []
 image:

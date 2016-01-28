@@ -2,7 +2,7 @@
 layout: media
 title: "Signature of Light"
 modified:
-categories: music
+categories: composition
 excerpt:
 tags: []
 image:

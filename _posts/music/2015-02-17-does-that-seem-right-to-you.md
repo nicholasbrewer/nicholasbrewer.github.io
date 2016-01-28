@@ -2,7 +2,7 @@
 layout: media
 title: "Does That Seem Right to You?"
 modified:
-categories: music
+categories: composition
 excerpt:
 tags: []
 image:

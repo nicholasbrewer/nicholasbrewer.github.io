@@ -2,7 +2,7 @@
 layout: media
 title: "Chopin Ballade Op. 52 No. 4 in F Minor"
 modified:
-categories: music
+categories: recording
 excerpt:
 tags: []
 image:

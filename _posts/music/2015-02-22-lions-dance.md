@@ -2,7 +2,7 @@
 layout: media
 title: "Lion's Dance"
 modified:
-categories: music
+categories: composition
 excerpt:
 tags: []
 image:
