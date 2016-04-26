@@ -10,6 +10,11 @@
   excerpt: "Paintings, prints, drawings."
   image: artwork.jpg
 
+- title: Photos
+  url: /photos/
+  excerpt: "Photos of me."
+  image: photos.jpg
+
 - title: About/Contact
   url: /about/
   excerpt: "Some background on me as well as contact information."

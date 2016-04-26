@@ -5,9 +5,9 @@ description: "Human, musician, artist, composer."
 logo: site-logo.jpg # 120x120 px default image used for Twitter summary card
 teaser: teaser.jpg # 400x250 px default teaser image used in image archive grid
 locale:
-#url: http://localhost:4000
+url: http://localhost:4000
 #url: http://nicholasbrewer.github.io
-url: http://nicholasbrewer.net
+#url: http://nicholasbrewer.net
 
 # Jekyll configuration
 
@@ -33,5 +33,30 @@ owner:
   avatar: bio-photo.jpg # 160x160 px image for author byline
 disqus-shortname:
 
+#gems:
+#  - jekyll-gallery-generator
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
+
+# Gallery Settings
+
+gallery:
+  # path to the gallery
+  dir: /images/Kozhukhin-Masterclass
+  # title for gallery index
+
+  title: "Photos of me"
+  # title prefix for gallery page. title=title_prefix+gallery_name
+  title_prefix: ""
+  # field to control sorting of galleries for the index page
+  # (possible values are: title, date_time, best_image)
+  sort_field: "best_image"
+  # sizes for thumbnails
+  thumbnail_size:
+    x: 300
+    y: 200
+  # custom configuration for individual gallery
+  # best_image is image for the index page (defaults to last image)
+  galleries:
+    Kozhukhin Masterclass:
+      best_image: 534A6692.jpg
