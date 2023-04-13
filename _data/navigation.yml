@@ -1,21 +1,6 @@
 # Site navigation links
 
-- title: Music
-  url: /music/
-  excerpt: "Listen to pieces I have written or recorded."
-  image: music.jpg
-
-- title: Artwork
-  url: /artwork/
-  excerpt: "Paintings, prints, drawings."
-  image: artwork.jpg
-
-- title: Photos
-  url: /photos/
-  excerpt: "Photos of me."
-  image: photos.jpg
-
-- title: About/Contact
-  url: /about/
-  excerpt: "Some background on me as well as contact information."
-  image: about-me.jpg
+- title: 
+  url: 
+  excerpt: 
+  image:
